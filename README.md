@@ -6,3 +6,7 @@ Code got from consulting following repository:
   <li><a href='https://github.com/ktkth5/lottery-ticket-hyopothesis'>Repository 1</a>
   <li><a href='https://github.com/rahulvigneswaran/Lottery-Ticket-Hypothesis-in-Pytorch'>Repository 2</a> 
 </ul>
+Project done by 
+1. Abhishek Narayan Chaudhury 19i190005
+2. Saptarshi Majumdar 19i190011
+3. Subhadeep Chaudhuri 19i190010
